@@ -4,8 +4,9 @@ Books are open doors to the unimagined worlds which is unique to every person. I
 
 In this challenge, participants are required to use the dataset to build a Machine Learning model to predict the price of books based on a given set of features. 
 
-Size of training set: 6237 records 
-Size of test set: 1560 records 
+Size of training set: **6237 records**
+
+Size of test set: **1560 records**
 
 FEATURES: 
 - Title: The title of the book 
